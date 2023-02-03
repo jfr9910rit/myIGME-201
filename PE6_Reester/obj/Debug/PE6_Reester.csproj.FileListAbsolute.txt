@@ -1,0 +1,8 @@
+E:\201\myIGME-201\PE6_Reester\bin\Debug\PE6_Reester.exe.config
+E:\201\myIGME-201\PE6_Reester\bin\Debug\PE6_Reester.exe
+E:\201\myIGME-201\PE6_Reester\bin\Debug\PE6_Reester.pdb
+E:\201\myIGME-201\PE6_Reester\obj\Debug\PE6_Reester.csproj.AssemblyReference.cache
+E:\201\myIGME-201\PE6_Reester\obj\Debug\PE6_Reester.csproj.SuggestedBindingRedirects.cache
+E:\201\myIGME-201\PE6_Reester\obj\Debug\PE6_Reester.csproj.CoreCompileInputs.cache
+E:\201\myIGME-201\PE6_Reester\obj\Debug\PE6_Reester.exe
+E:\201\myIGME-201\PE6_Reester\obj\Debug\PE6_Reester.pdb
