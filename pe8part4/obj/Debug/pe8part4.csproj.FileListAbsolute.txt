@@ -1,0 +1,8 @@
+E:\201\myIGME-201\pe8part4\bin\Debug\pe8part4.exe.config
+E:\201\myIGME-201\pe8part4\bin\Debug\pe8part4.exe
+E:\201\myIGME-201\pe8part4\bin\Debug\pe8part4.pdb
+E:\201\myIGME-201\pe8part4\obj\Debug\pe8part4.csproj.AssemblyReference.cache
+E:\201\myIGME-201\pe8part4\obj\Debug\pe8part4.csproj.SuggestedBindingRedirects.cache
+E:\201\myIGME-201\pe8part4\obj\Debug\pe8part4.csproj.CoreCompileInputs.cache
+E:\201\myIGME-201\pe8part4\obj\Debug\pe8part4.exe
+E:\201\myIGME-201\pe8part4\obj\Debug\pe8part4.pdb
