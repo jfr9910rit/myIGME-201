@@ -6,15 +6,8 @@ using System.Threading.Tasks;
 
 namespace PE6_Reester
 {
-    // Class Program
-    // Author: Julian Reester
-    // Purpose: Number guessing game
-    // Restrictions: None
     internal class Program
     {
-        // Method: Main
-        // Purpose: A loop that increases on valid guesses and stops on correct guess or out of guesses
-        // Restrictions: None
         static void Main(string[] args)
         {
             Random rand = new Random();
@@ -23,14 +16,11 @@ namespace PE6_Reester
             int randomNumber = rand.Next(0, 101);
 
             Console.WriteLine(randomNumber.ToString());
-            //while loop counter
             int i = 1;
             while(i < 9)
             {
-                //asks for guess and puts it in variable
                 Console.WriteLine("Turn " + i + ": Enter your guess: ");
                 int entry = Convert.ToInt32(Console.ReadLine());
-                //if statements depending on if guess matches number or is not valid
                 if(entry == randomNumber)
                 {
                     Console.WriteLine("Congratulations you guessed correctly.");
@@ -52,7 +42,6 @@ namespace PE6_Reester
                 }
                 
             }
-            //if statement for if out of tries
             if(i == 9)
             {
                 Console.WriteLine("You failed to guess in 8 turns");
