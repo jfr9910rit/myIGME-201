@@ -1,0 +1,8 @@
+E:\201\myIGME-201\pe9part1\obj\Debug\pe9part1.csproj.AssemblyReference.cache
+E:\201\myIGME-201\pe9part1\obj\Debug\pe9part1.csproj.SuggestedBindingRedirects.cache
+E:\201\myIGME-201\pe9part1\obj\Debug\pe9part1.csproj.CoreCompileInputs.cache
+E:\201\myIGME-201\pe9part1\bin\Debug\pe9part1.exe.config
+E:\201\myIGME-201\pe9part1\bin\Debug\pe9part1.exe
+E:\201\myIGME-201\pe9part1\bin\Debug\pe9part1.pdb
+E:\201\myIGME-201\pe9part1\obj\Debug\pe9part1.exe
+E:\201\myIGME-201\pe9part1\obj\Debug\pe9part1.pdb
