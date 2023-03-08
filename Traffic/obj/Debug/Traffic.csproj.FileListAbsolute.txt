@@ -1,0 +1,11 @@
+E:\201\myIGME-201\Traffic\obj\Debug\Traffic.csproj.AssemblyReference.cache
+E:\201\myIGME-201\Traffic\obj\Debug\Traffic.csproj.SuggestedBindingRedirects.cache
+E:\201\myIGME-201\Traffic\obj\Debug\Traffic.csproj.CoreCompileInputs.cache
+E:\201\myIGME-201\Traffic\bin\Debug\Traffic.exe.config
+E:\201\myIGME-201\Traffic\bin\Debug\Traffic.exe
+E:\201\myIGME-201\Traffic\bin\Debug\Traffic.pdb
+E:\201\myIGME-201\Traffic\bin\Debug\PE11Part1_Reester.dll
+E:\201\myIGME-201\Traffic\bin\Debug\PE11Part1_Reester.pdb
+E:\201\myIGME-201\Traffic\obj\Debug\Traffic.csproj.CopyComplete
+E:\201\myIGME-201\Traffic\obj\Debug\Traffic.exe
+E:\201\myIGME-201\Traffic\obj\Debug\Traffic.pdb
