@@ -1,0 +1,6 @@
+E:\201\myIGME-201\PE11Part1_Reester\bin\Debug\PE11Part1_Reester.dll
+E:\201\myIGME-201\PE11Part1_Reester\bin\Debug\PE11Part1_Reester.pdb
+E:\201\myIGME-201\PE11Part1_Reester\obj\Debug\PE11Part1_Reester.csproj.AssemblyReference.cache
+E:\201\myIGME-201\PE11Part1_Reester\obj\Debug\PE11Part1_Reester.csproj.CoreCompileInputs.cache
+E:\201\myIGME-201\PE11Part1_Reester\obj\Debug\PE11Part1_Reester.dll
+E:\201\myIGME-201\PE11Part1_Reester\obj\Debug\PE11Part1_Reester.pdb
