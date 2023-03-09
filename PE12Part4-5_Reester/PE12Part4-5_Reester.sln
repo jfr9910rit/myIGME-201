@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PE12Part4-5_Reester", "PE12Part4-5_Reester.csproj", "{AF80E6CD-C723-4A5B-9BE3-E4EC51D70537}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pe12Part4_Reester", "..\pe12Part4_Reester\pe12Part4_Reester.csproj", "{F5AD3964-CAF5-42C0-BD08-BABCEF8E9DF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF80E6CD-C723-4A5B-9BE3-E4EC51D70537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF80E6CD-C723-4A5B-9BE3-E4EC51D70537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF80E6CD-C723-4A5B-9BE3-E4EC51D70537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF80E6CD-C723-4A5B-9BE3-E4EC51D70537}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5AD3964-CAF5-42C0-BD08-BABCEF8E9DF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5AD3964-CAF5-42C0-BD08-BABCEF8E9DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5AD3964-CAF5-42C0-BD08-BABCEF8E9DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5AD3964-CAF5-42C0-BD08-BABCEF8E9DF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3B8CF30-FB20-44DE-8CF2-6C5E82F88B2E}
+	EndGlobalSection
+EndGlobal
