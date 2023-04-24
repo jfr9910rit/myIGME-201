@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Schema;
 
 namespace UnitTest1Part3_Reester
 {
@@ -11,6 +12,8 @@ namespace UnitTest1Part3_Reester
         delegate double Round(string number,int length);
         static void Main(string[] args)
         {
+            
+
             Round round = new Round(RoundNum);
             Console.WriteLine("enter a number to round:");
             string doub = Console.ReadLine();
@@ -19,6 +22,35 @@ namespace UnitTest1Part3_Reester
             double dOut = round(doub,len);
             Console.WriteLine();
             Console.WriteLine(dOut);
+
+
+
+
+            //question 8
+            int count = 1;
+            double[,,] calculations = new double[21,31,651];
+            for (double x = -1; x <= 1; x += 0.1)
+            {
+                for (double y = 1; y <= 4; y += 0.1)
+                {
+                    double z = 4 * (Math.Pow(y, 3)) + 2 * (Math.Pow(x, 2)) - (8 * x) + 7;
+                    calculations[(int)x, (int)y, (int)z] = count++;
+                }
+            }
+            for (double i  = -1; i <= 1; i += 0.1)
+            {
+                for (double j = 1; j <= 4; j += 0.1)
+                {
+                    for(double k = 1;k <= 651; k ++)
+                    {
+                        double roundedX = round(Convert.ToString(calculations[(int)i, (int)j, (int)k]), 1);
+                        double roundedY = round(Convert.ToString(calculations[(int)i, (int)j, (int)k]), 1);
+                        double roundedZ = round(Convert.ToString(calculations[(int)i, (int)j, (int)k]), 3);
+                    }
+                    
+                }
+            }
+
         }
 
         public static double RoundNum(string number, int length) 

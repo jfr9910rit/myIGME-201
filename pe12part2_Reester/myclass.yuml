@@ -1,0 +1,6 @@
+// {type:class}
+// {genereate:true}
+// {direction:topDown}
+
+[+MyClass|myString|GetString()]<-[+MyDerivedClass||+O:GetString()]
+
