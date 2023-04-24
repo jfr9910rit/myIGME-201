@@ -31,7 +31,7 @@ namespace UnitTest1Part7_Reester
             {
                 Console.Write("Enter a positive whole number for y: ");
                 sNumber = Console.ReadLine();
-            } //while (int.TryParse(sNumber, out nX)); - compile time error when calling power function nY is unnasigned as it is just reassigning nX2 and logic error needs ! in front
+            } //while (int.TryParse(sNumber, out nX)); - compile time error when calling power function nY is unnasigned as it is just reassigning nX and logic error needs ! in front
             while (!int.TryParse(sNumber, out nY));
 
             // compute the exponent of the number using a recursive function

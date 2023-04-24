@@ -6,57 +6,57 @@ using System.Threading.Tasks;
 
 namespace PE11Part1_Reester
 {
-    abstract class Vehicle
+    public abstract class Vehicle
     {
         public virtual void LoadPassenger() { }
     }
 
-    abstract class Car : Vehicle
+    public abstract class Car : Vehicle
     {
 
     }
 
-    abstract class Train : Vehicle
+    public abstract class Train : Vehicle
     {
 
     }
 
-    class Compact : Car, IPassengerCarrier
+    public class Compact : Car, IPassengerCarrier
     {
 
     }
 
-    class SUV : Car, IPassengerCarrier
+    public class SUV : Car, IPassengerCarrier
     {
 
     }
 
-    class Pickup : Car, IPassengerCarrier
+    public class Pickup : Car, IPassengerCarrier
     {
 
     }
 
-    class PassengerTrain : Train, IPassengerCarrier
+    public class PassengerTrain : Train, IPassengerCarrier
     {
 
     }
 
-    class FreightTrain : Train, IHeavyLoadCarrier
+    public class FreightTrain : Train, IHeavyLoadCarrier
     {
 
     }
 
-    class _424DoubleBogey : Train, IHeavyLoadCarrier
+    public class _424DoubleBogey : Train, IHeavyLoadCarrier
     {
 
     }
 
-    interface IPassengerCarrier
+    public interface IPassengerCarrier
     {
         void LoadPassenger();
     }
 
-    interface IHeavyLoadCarrier
+    public interface IHeavyLoadCarrier
     {
 
     }
