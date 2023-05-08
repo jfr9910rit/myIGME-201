@@ -1,0 +1,8 @@
+E:\201\myIGME-201\FinalQ5_Reester\bin\Debug\FinalQ6_Reester.exe.config
+E:\201\myIGME-201\FinalQ5_Reester\bin\Debug\FinalQ6_Reester.exe
+E:\201\myIGME-201\FinalQ5_Reester\bin\Debug\FinalQ6_Reester.pdb
+E:\201\myIGME-201\FinalQ5_Reester\obj\Debug\FinalQ6_Reester.csproj.AssemblyReference.cache
+E:\201\myIGME-201\FinalQ5_Reester\obj\Debug\FinalQ6_Reester.csproj.SuggestedBindingRedirects.cache
+E:\201\myIGME-201\FinalQ5_Reester\obj\Debug\FinalQ6_Reester.csproj.CoreCompileInputs.cache
+E:\201\myIGME-201\FinalQ5_Reester\obj\Debug\FinalQ6_Reester.exe
+E:\201\myIGME-201\FinalQ5_Reester\obj\Debug\FinalQ6_Reester.pdb
