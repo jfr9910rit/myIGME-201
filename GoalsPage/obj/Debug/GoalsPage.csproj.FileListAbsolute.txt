@@ -1,0 +1,11 @@
+E:\201\myIGME-201\GoalsPage\bin\Debug\GoalsPage.exe.config
+E:\201\myIGME-201\GoalsPage\bin\Debug\GoalsPage.exe
+E:\201\myIGME-201\GoalsPage\bin\Debug\GoalsPage.pdb
+E:\201\myIGME-201\GoalsPage\obj\Debug\GoalsPage.csproj.AssemblyReference.cache
+E:\201\myIGME-201\GoalsPage\obj\Debug\GoalsPage.csproj.SuggestedBindingRedirects.cache
+E:\201\myIGME-201\GoalsPage\obj\Debug\GoalsPage.Form1.resources
+E:\201\myIGME-201\GoalsPage\obj\Debug\GoalsPage.Properties.Resources.resources
+E:\201\myIGME-201\GoalsPage\obj\Debug\GoalsPage.csproj.GenerateResource.cache
+E:\201\myIGME-201\GoalsPage\obj\Debug\GoalsPage.csproj.CoreCompileInputs.cache
+E:\201\myIGME-201\GoalsPage\obj\Debug\GoalsPage.exe
+E:\201\myIGME-201\GoalsPage\obj\Debug\GoalsPage.pdb
